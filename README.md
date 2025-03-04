@@ -1,4 +1,4 @@
-# Python Scripting Showcase
+# Python Scripts
 
 Welcome to my Python scripting repository! This repository contains various Python scripts demonstrating my skills in automation, web scraping, and mathematical computations.
 
